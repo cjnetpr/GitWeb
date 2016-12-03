@@ -14,5 +14,10 @@ namespace GitWeb
         {
             ConfigureAuth(app);
         }
+
+        public void GitN(IAppBuilder app)
+        {
+            ConfigureAuth(app);
+        }
     }
 }
