@@ -19,11 +19,5 @@ namespace GitWeb
         {
             ConfigureAuth(app);
         }
-
-        public void GitM(IAppBuilder app)
-        {
-            ConfigureAuth(app);
-        }
-
     }
 }
