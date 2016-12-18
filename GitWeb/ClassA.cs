@@ -8,9 +8,9 @@ namespace GitWeb
     public class ClassA
     {
         
-        void m1()
+        void m30()
         {
-            
+            var a = new ClassA();
         }
 
     }
