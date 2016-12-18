@@ -9,5 +9,9 @@ namespace Service
     public class Class1
     {
         public int MyProperty { get; set; }
+        void A()
+        {
+            
+        }
     }
 }

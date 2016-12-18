@@ -9,5 +9,9 @@ namespace GitWeb
     {
         
         public int nationalyCode { get; set; }
+        void Tel()
+        {
+            
+        }
     }
 }
