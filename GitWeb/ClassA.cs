@@ -7,5 +7,7 @@ namespace GitWeb
 {
     public class ClassA
     {
+        public string proA { get; set; }
+        public string Name { get; set; }
     }
 }
